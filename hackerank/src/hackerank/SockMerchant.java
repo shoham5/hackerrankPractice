@@ -39,7 +39,7 @@ public class SockMerchant {
 		// TODO Auto-generated method stub
 		int arr[]= {2,1,1,3,2,2,4,4,4,4};
 		System.out.println(sockMerchant(10,arr));
-		//System.out.println(5/2);
+		System.out.println(5/2);
 	}
 
 }

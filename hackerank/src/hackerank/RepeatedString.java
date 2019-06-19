@@ -23,6 +23,9 @@ return counter;
 String s = "aba";
 System.out.println(repeatedString(s, 10));
 String s1="a";
+System.out.println(repeatedString(s, 10));
+String s2="a";
+	
 	}
 
 }
