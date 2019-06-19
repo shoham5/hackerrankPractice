@@ -42,8 +42,7 @@ public class CountingValleys {
 		// TODO Auto-generated method stub
 		String s = "UDDDUDUU";
 		System.out.println(countingValleys(8,s));
-		String s1 = "UDDDUDUU";
-		System.out.println(countingValleys(8,s));
+		
 	}
 
 }
